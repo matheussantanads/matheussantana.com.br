@@ -14,7 +14,7 @@
     Used to create a simple script that exchanges words between Pt-Br and En-Us
 
 ### Azure☁️
-In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by [Glaucia Lemos (@glaucia86)](https://github.com/glaucia86) (available until 7/31/2020 on the [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/))) platform, I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)]([https://docs.microsoft.com/en-us/azure/static-web-apps/](https://docs.microsoft.com/en-us/azure/static-web-apps/)).
+In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by [Glaucia Lemos (@glaucia86)](https://github.com/glaucia86) (available until 7/31/2020 on the [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)) platform), I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)]([https://docs.microsoft.com/en-us/azure/static-web-apps/](https://docs.microsoft.com/en-us/azure/static-web-apps/)).
 
 #### Azure Static Web Apps
 Azure Static Web Apps is a service that automatically compiles and deploys static web pages from a GitHub repository by following the following flow:
