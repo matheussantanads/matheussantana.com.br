@@ -1,0 +1,71 @@
+body, html {
+    height: 100%;
+}
+
+.bg-image{
+    background-image: url("../media/image/background.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.responsive-img{
+    max-width: 40% !important;
+}
+
+.center-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.name{
+    font-size: 25px !important;
+    background-color: rgb(245, 245, 245);
+    color: #111 !important;
+    letter-spacing: 8px;
+    padding-left: 12px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.caption{
+    background-color: #111;
+    letter-spacing: 10px;
+    padding-left: 12px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.translate-switch{
+    background-color: rgb(245, 245, 245);
+    letter-spacing: 10px;
+    padding-left: 12px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.my-infos{
+    margin-bottom: 0px;
+}
+
+.social-media{
+    height: 40px;
+    margin-bottom: -40px;
+}
+
+i{
+    font-size:40px;
+    color: rgb(245, 245, 245);
+    padding-left: 12px;
+    transition: 0.3s;
+}
+
+i:hover{
+    color:rgb(165, 165, 165);
+}
