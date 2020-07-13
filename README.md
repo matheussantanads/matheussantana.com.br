@@ -2,6 +2,34 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="30">](https://github.com/matheussantanads/matheussantana.com.br#tecnologias-utilizadas) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2000px-Flag_of_the_United_States.svg.png" height="30">](https://github.com/matheussantanads/matheussantana.com.br#technologies-used) ![Azure Static Web Apps CI/CD](https://github.com/matheussantanads/matheussantana.com.br/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
 [<img src="https://i.imgur.com/qIXlR9Y.png">](https://purple-sand-08fa9d410.azurestaticapps.net/) 
 
+## 🚀Technologies Used
+- [Azure](https://azure.microsoft.com/)
+- HTML 5
+- CSS
+	- [Materialize 1.0.0](https://materializecss.com/)
+        A modern responsive front-end framework based on Material Design
+	- [Font Awesome 5.13.1](https://fontawesome.com/)
+        Font and icon toolkit based on CSS and Less
+- JS
+    Used to create a simple script that exchanges words between Pt-Br and En-Us
+
+### Azure☁️
+In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by @glaucialemos (available until 7/31/2020 on the [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/))) platform, I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)]([https://docs.microsoft.com/en-us/azure/static-web-apps/](https://docs.microsoft.com/en-us/azure/static-web-apps/)).
+
+#### Azure Static Web Apps
+Azure Static Web Apps is a service that automatically compiles and deploys static web pages from a GitHub repository by following the following flow:
+[<img src="https://docs.microsoft.com/en-us/azure/static-web-apps/media/overview/static-apps-overview.png">](https://docs.microsoft.com/en-us/azure/static-web-apps/media/overview/static-apps-overview.png) 
+
+In addition to practicing what was taught in the bootcamp, I opted for Azure Static Web Apps also because it is a free solution.
+- ✅Practice
+- ✅Integration with GitHub to deploy
+- ✅It's free 🤑🤑🤑
+
+The project is currently hosted in [https://purple-sand-08fa9d410.azurestaticapps.net/](https://purple-sand-08fa9d410.azurestaticapps.net/).
+
+## 🔥 Next steps
+- [ ] Point to the .com.br custom domain. (This is possible because Azure Static Web Apps allows you to customize your domain for free too).
+
 ## 🚀Tecnologias Utilizadas
 - [Azure](https://azure.microsoft.com/)
 - HTML 5
