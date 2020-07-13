@@ -18,6 +18,7 @@ In order to practice what I learned at the bootcamp **Cloud Computing & Serverle
 
 #### Azure Static Web Apps
 Azure Static Web Apps is a service that automatically compiles and deploys static web pages from a GitHub repository by following the following flow:
+
 [<img src="https://docs.microsoft.com/en-us/azure/static-web-apps/media/overview/static-apps-overview.png">](https://docs.microsoft.com/en-us/azure/static-web-apps/media/overview/static-apps-overview.png) 
 
 In addition to practicing what was taught in the bootcamp, I opted for Azure Static Web Apps also because it is a free solution.
@@ -46,6 +47,7 @@ Afim de praticar o que aprendi no bootcamp **Cloud Computing & Serverless** mini
 
 #### Azure Static Web Apps
 O Azure Static Web Apps é um serviço que compila e implanta automaticamente páginas web estáticas de um repositório GitHub seguindo o seguinte fluxo:
+
 [<img src="https://docs.microsoft.com/pt-br/azure/static-web-apps/media/overview/static-apps-overview.png">](https://docs.microsoft.com/pt-br/azure/static-web-apps/media/overview/static-apps-overview.png) 
 
 Além de praticar o que foi ensinado no bootcamp optei pelo Azure Static Web Apps também por ser uma solução gratuita.
