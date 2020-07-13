@@ -30,7 +30,7 @@ The project is currently hosted in [htpps://www.matheussantana.com.br](https://w
 
 If you try to access the root domain [(htpps://matheussantana.com.br)](https://matheussantana.com.br). You will notice that it does, because Azure Static Web Apps is in a previous version and does not have support for the root domain.
 
-## 🤔 Porém, contudo, toda via
+## 🤔 But... 💡
 In order to get around the "problem" of website unavailability in the root domain we can use some DNS tricks and the help of Cloudflare as shown in the [article](https://burkeholland.github.io/posts/static-app-root-domain/) of [Burke Holland](https://burkeholland.github.io/resume/). In the article he shows how to set up a root domain for Azure Static Web Apps while we don't have official support for that feature yet.
 
 ## 🔥 Next steps
@@ -64,12 +64,8 @@ Atualmente o projeto está hospedado em [htpps://www.matheussantana.com.br](http
 
 Se tentar acessar o domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). Irá notar que possui, isso porque o Azure Static Web Apps está em versão prévia e não possui suporte para o domínio raiz.
 
-## 🤔 Porém, contudo, toda via
+## 🤔 Porém, contudo, todavia 💡
 Para contornar o "problema" de indisponilibidade do site no domínio raiz podemos utilizar alguns truques de DNS e a ajuda do Cloudflare como é mostrado no [artigo](https://burkeholland.github.io/posts/static-app-root-domain/) do [Burke Holland](https://burkeholland.github.io/resume/). No artigo ele mostra como configurar um domínio raiz para o Azure Static Web Apps enquanto ainda não temos o suporte oficial para tal recurso.
 
 ## 🔥 Próximos passos
-<<<<<<< HEAD
 - [ ] Deixar site disponível no domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
-=======
-- [ ] Apontar para o domínio personalizado .com.br. (Isso será possível pois o Azure Static Web Apps permite a personalização do domínio também gratuitamente).
->>>>>>> d48e568b0520a61a8366428c4485d72187669652
