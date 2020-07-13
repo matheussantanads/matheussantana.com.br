@@ -14,10 +14,11 @@
     Used to create a simple script that exchanges words between Pt-Br and En-Us
 
 ### Azure☁️
-In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by [Glaucia Lemos (@glaucia86)](https://github.com/glaucia86) (available until 7/31/2020 on the [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)) platform), I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)]([https://docs.microsoft.com/en-us/azure/static-web-apps/](https://docs.microsoft.com/en-us/azure/static-web-apps/)).
+In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by [Glaucia Lemos (@glaucia86)](https://github.com/glaucia86) (available until 7/31/2020 on the [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)) platform), I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)](https://docs.microsoft.com/en-us/azure/static-web-apps/).
 
 #### Azure Static Web Apps
 Azure Static Web Apps is a service that automatically compiles and deploys static web pages from a GitHub repository by following the following flow:
+
 [<img src="https://docs.microsoft.com/en-us/azure/static-web-apps/media/overview/static-apps-overview.png">](https://docs.microsoft.com/en-us/azure/static-web-apps/media/overview/static-apps-overview.png) 
 
 In addition to practicing what was taught in the bootcamp, I opted for Azure Static Web Apps also because it is a free solution.
@@ -47,10 +48,11 @@ In order to get around the "problem" of website unavailability in the root domai
     Utilizado para criar um script simples que troca as frases entre Pt-Br e En-Us
 
 ### Azure☁️
-Afim de praticar o que aprendi no bootcamp **Cloud Computing & Serverless** ministrado por [Glaucia Lemos (@glaucia86)](https://github.com/glaucia86) (disponível até 31/07/2020 na plataforma [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/))), resolvi criar um site pessoal estático e hospedar este no Azure. Para tal utilizei o produto [Azure Static Web Apps (preview)]([https://docs.microsoft.com/pt-br/azure/static-web-apps/](https://docs.microsoft.com/pt-br/azure/static-web-apps/)).
+Afim de praticar o que aprendi no bootcamp **Cloud Computing & Serverless** ministrado por [Glaucia Lemos (@glaucia86)](https://github.com/glaucia86) (disponível até 31/07/2020 na plataforma [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/))), resolvi criar um site pessoal estático e hospedar este no Azure. Para tal utilizei o produto [Azure Static Web Apps (preview)](https://docs.microsoft.com/pt-br/azure/static-web-apps/).
 
 #### Azure Static Web Apps
 O Azure Static Web Apps é um serviço que compila e implanta automaticamente páginas web estáticas de um repositório GitHub seguindo o seguinte fluxo:
+
 [<img src="https://docs.microsoft.com/pt-br/azure/static-web-apps/media/overview/static-apps-overview.png">](https://docs.microsoft.com/pt-br/azure/static-web-apps/media/overview/static-apps-overview.png) 
 
 Além de praticar o que foi ensinado no bootcamp optei pelo Azure Static Web Apps também por ser uma solução gratuita.
@@ -66,4 +68,8 @@ Se tentar acessar o domínio raiz [(htpps://matheussantana.com.br)](https://math
 Para contornar o "problema" de indisponilibidade do site no domínio raiz podemos utilizar alguns truques de DNS e a ajuda do Cloudflare como é mostrado no [artigo](https://burkeholland.github.io/posts/static-app-root-domain/) do [Burke Holland](https://burkeholland.github.io/resume/). No artigo ele mostra como configurar um domínio raiz para o Azure Static Web Apps enquanto ainda não temos o suporte oficial para tal recurso.
 
 ## 🔥 Próximos passos
+<<<<<<< HEAD
 - [ ] Deixar site disponível no domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
+=======
+- [ ] Apontar para o domínio personalizado .com.br. (Isso será possível pois o Azure Static Web Apps permite a personalização do domínio também gratuitamente).
+>>>>>>> d48e568b0520a61a8366428c4485d72187669652
