@@ -14,7 +14,7 @@
     Used to create a simple script that exchanges words between Pt-Br and En-Us
 
 ### Azure☁️
-In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by [Glaucia Lemos](https://github.com/glaucia86) (available until 7/31/2020 on the [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)) platform), I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)](https://docs.microsoft.com/en-us/azure/static-web-apps/).
+In order to practice what I learned at the bootcamp **Cloud Computing & Serverless** taught by [Glaucia Lemos](https://github.com/glaucia86) (available until 7/31/2020 on the [Digital Innovation One](https://web.digitalinnovation.one/) platform), I decided to create a static personal website and host it on Azure. For this, I used the product [Azure Static Web Apps (preview)](https://docs.microsoft.com/en-us/azure/static-web-apps/).
 
 #### Azure Static Web Apps
 Azure Static Web Apps is a service that automatically compiles and deploys static web pages from a GitHub repository by following the following flow:
@@ -48,7 +48,7 @@ In order to get around the "problem" of website unavailability in the root domai
     Utilizado para criar um script simples que troca as frases entre Pt-Br e En-Us
 
 ### Azure☁️
-Afim de praticar o que aprendi no bootcamp **Cloud Computing & Serverless** ministrado por [Glaucia Lemos](https://github.com/glaucia86) (disponível até 31/07/2020 na plataforma [Digital Innovation One]([https://web.digitalinnovation.one/](https://web.digitalinnovation.one/))), resolvi criar um site pessoal estático e hospedar este no Azure. Para tal utilizei o produto [Azure Static Web Apps (preview)](https://docs.microsoft.com/pt-br/azure/static-web-apps/).
+Afim de praticar o que aprendi no bootcamp **Cloud Computing & Serverless** ministrado por [Glaucia Lemos](https://github.com/glaucia86) (disponível até 31/07/2020 na plataforma [Digital Innovation One](https://web.digitalinnovation.one/)), resolvi criar um site pessoal estático e hospedar este no Azure. Para tal utilizei o produto [Azure Static Web Apps (preview)](https://docs.microsoft.com/pt-br/azure/static-web-apps/).
 
 #### Azure Static Web Apps
 O Azure Static Web Apps é um serviço que compila e implanta automaticamente páginas web estáticas de um repositório GitHub seguindo o seguinte fluxo:
