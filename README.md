@@ -24,3 +24,8 @@ Além de praticar o que foi ensinado no bootcamp optei pelo Azure Static Web App
 - ✅Praticar
 - ✅Integração com o GitHub para fazer o deploy
 - ✅É gratuito 🤑🤑🤑
+
+Atualmente o projeto está hospedado em [https://purple-sand-08fa9d410.azurestaticapps.net/](https://purple-sand-08fa9d410.azurestaticapps.net/).
+
+## 🔥 Próximos passos
+- [ ] Apontar para o domínio personalizado .com.br. (Isso será possível pois o Azure Static Web Apps permite a personalização do domínio também gratuitamente).
