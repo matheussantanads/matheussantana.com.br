@@ -34,7 +34,7 @@ If you try to access the root domain [(htpps://matheussantana.com.br)](https://m
 In order to get around the "problem" of website unavailability in the root domain we can use some DNS tricks and the help of Cloudflare as shown in the [article](https://burkeholland.github.io/posts/static-app-root-domain/) of [Burke Holland](https://burkeholland.github.io/resume/). In the article he shows how to set up a root domain for Azure Static Web Apps while we don't have official support for that feature yet.
 
 ## 🔥 Next steps
-- [ ] Make the website available in the root domain [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
+- [x] Make the website available in the root domain [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
 
 ## 🚀Tecnologias Utilizadas
 - [Azure](https://azure.microsoft.com/)
@@ -68,4 +68,4 @@ Se tentar acessar o domínio raiz [(htpps://matheussantana.com.br)](https://math
 Para contornar o "problema" de indisponilibidade do site no domínio raiz podemos utilizar alguns truques de DNS e a ajuda do Cloudflare como é mostrado no [artigo](https://burkeholland.github.io/posts/static-app-root-domain/) do [Burke Holland](https://burkeholland.github.io/resume/). No artigo ele mostra como configurar um domínio raiz para o Azure Static Web Apps enquanto ainda não temos o suporte oficial para tal recurso.
 
 ## 🔥 Próximos passos
-- [ ] Deixar o website disponível no domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
+- [x] Deixar o website disponível no domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
