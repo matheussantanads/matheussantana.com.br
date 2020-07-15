@@ -26,16 +26,6 @@ In addition to practicing what was taught in the bootcamp, I opted for Azure Sta
 - ✅Integration with GitHub to deploy
 - ✅It's free 🤑🤑🤑
 
-The project is currently hosted in [htpps://www.matheussantana.com.br](https://www.matheussantana.com.br).
-
-If you try to access the root domain [(htpps://matheussantana.com.br)](https://matheussantana.com.br). You will notice that it is not possible, because Azure Static Web Apps is in a previous version and does not have support for the root domain.
-
-## 🤔 But... 💡
-In order to get around the "problem" of website unavailability in the root domain we can use some DNS tricks and the help of Cloudflare as shown in the [article](https://burkeholland.github.io/posts/static-app-root-domain/) of [Burke Holland](https://burkeholland.github.io/resume/). In the article he shows how to set up a root domain for Azure Static Web Apps while we don't have official support for that feature yet.
-
-## 🔥 Next steps
-- [x] Make the website available in the root domain [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
-
 ## 🚀Tecnologias Utilizadas
 - [Azure](https://azure.microsoft.com/)
 - HTML 5
@@ -59,13 +49,3 @@ Além de praticar o que foi ensinado no bootcamp optei pelo Azure Static Web App
 - ✅Praticar
 - ✅Integração com o GitHub para fazer o deploy
 - ✅É gratuito 🤑🤑🤑
-
-Atualmente o projeto está hospedado em [htpps://www.matheussantana.com.br](https://www.matheussantana.com.br).
-
-Se tentar acessar o domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). Irá notar que não é possível, isso porque o Azure Static Web Apps está em versão prévia e não possui suporte para o domínio raiz.
-
-## 🤔 Porém, contudo, todavia 💡
-Para contornar o "problema" de indisponilibidade do site no domínio raiz podemos utilizar alguns truques de DNS e a ajuda do Cloudflare como é mostrado no [artigo](https://burkeholland.github.io/posts/static-app-root-domain/) do [Burke Holland](https://burkeholland.github.io/resume/). No artigo ele mostra como configurar um domínio raiz para o Azure Static Web Apps enquanto ainda não temos o suporte oficial para tal recurso.
-
-## 🔥 Próximos passos
-- [x] Deixar o website disponível no domínio raiz [(htpps://matheussantana.com.br)](https://matheussantana.com.br). 
