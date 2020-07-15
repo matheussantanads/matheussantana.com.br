@@ -3,7 +3,7 @@
 [<img src="https://i.imgur.com/qIXlR9Y.png">](https://purple-sand-08fa9d410.azurestaticapps.net/) 
 
 ## 🚀Technologies Used
-- [Azure](https://azure.microsoft.com/)
+- Azure
 - HTML 5
 - CSS
 	- [Materialize 1.0.0](https://materializecss.com/)
@@ -27,7 +27,7 @@ In addition to practicing what was taught in the bootcamp, I opted for Azure Sta
 - ✅It's free 🤑🤑🤑
 
 ## 🚀Tecnologias Utilizadas
-- [Azure](https://azure.microsoft.com/)
+- Azure
 - HTML 5
 - CSS
 	- [Materialize 1.0.0](https://materializecss.com/)
