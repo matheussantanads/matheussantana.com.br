@@ -49,3 +49,7 @@ i:hover{
 h1{
     font-size: 2em;
 }
+
+.box{
+    border: 5px solid #555;
+}
