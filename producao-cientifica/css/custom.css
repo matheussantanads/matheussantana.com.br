@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+}
+
+.bg-image{
+    background-image: url("../../media/image/background.png");
+    height: 100%;
+    background-position: center;
+    /*background-repeat: repeat;*/
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+div img, div iframe{
+    border: 5px solid #d3d3d3;
+}
+
+blockquote{
+    text-align: left !important;
+    border-left-color: #d3d3d3;
+}
+
+.social-media{
+    height: 40px;
+    margin-bottom: -40px;
+}
+
+i{
+    font-size:40px;
+    color: rgb(245, 245, 245);
+    padding-left: 12px;
+    transition: 0.3s;
+}
+
+i:hover{
+    color:rgb(165, 165, 165);
+}
+
+.article{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px !important;
+}
+
+h1{
+    font-size: 2em;
+}
