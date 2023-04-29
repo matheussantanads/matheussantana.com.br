@@ -7,11 +7,11 @@ function translatePage(){
 
     if(seletor.checked == true){
         desc1.innerText = "Hello, I'm Matheus Santana";
-        desc2.innerText = "Electronic Engineer Student";
-        desc3.innerText = "Full Stack Developer";
+        desc2.innerText = "Computer Science Student";
+        //desc3.innerText = "Full Stack Developer";
     }else{
         desc1.innerText = "Olá, eu sou Matheus Santana";
-        desc2.innerText = "Estudante de Engenharia Eletrônica";
-        desc3.innerText = "Desenvolvedor Full Stack";
+        desc2.innerText = "Estudante de Ciência da Computação";
+        //desc3.innerText = "Desenvolvedor Full Stack";
     }
 }
